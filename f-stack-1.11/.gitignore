@@ -1,0 +1,8 @@
+*~
+*.a
+*.core
+*.lo
+*.la
+*.o
+*.so
+*.swap
